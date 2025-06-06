@@ -1,9 +1,20 @@
 # Project-511
 Enercon Wind Farms in Karnataka Bundled Project 
 
+The project activity “Enercon Wind Farms in Karnataka Bundled Project” is located in the Gadang
+district in the State of Karnataka, India. The project activity is a bundled project with a total capacity of
+18.2 MW owned by Wind World Wind Farms (Karnataka) Pvt Ltd (3.2MW) & Wind World Wind Farms
+(Krishna) Pvt Ltd (15MW) wind power projects.
 
+The objective is development, design, engineering,
+procurement, finance, construction, operation and maintenance of supply, erection, commissioning and
+operation of 29 machines of rated capacity 800 kW (Karnataka) & 600kW (Krishna) each. The machines
+are Enercon E-40 & E-48 make. The project is owned by Wind World Wind Farms PVT LTD
+(hereinafter referred to as the Project Proponent or PP). 
 
+______________
 PRIOR HISTORY:
+_______________
 This UCR project activity is a subset of the following CDM Project Activity:
 
 CDM Project 1286 : Enercon Wind Farms in Karnataka Bundled Project - 73.60 MW
