@@ -12,6 +12,12 @@ operation of 29 machines of rated capacity 800 kW (Karnataka) & 600kW (Krishna) 
 are Enercon E-40 & E-48 make. The project is owned by Wind World Wind Farms PVT LTD
 (hereinafter referred to as the Project Proponent or PP). 
 
+The project activity is a debundled project of CDM with registration number 1286. The crediting
+period for this project under CDM was from 01/07/2010 to 30/06/2020 (Fixed), which has now
+ended. The project proponent (PP) seeks verification under UCR starting from 01/07/2020, meaning
+the crediting period for UCR begins from that date. Therefore, there is no double counting for this
+project. 
+
 ______________
 PRIOR HISTORY:
 _______________
